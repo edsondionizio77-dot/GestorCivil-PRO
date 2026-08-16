@@ -1,4 +1,4 @@
-[gestorcivil_README.md](https://github.com/user-attachments/files/31122563/gestorcivil_README.md)
+[gestorcivil_README.md]
 # GestorCivil Pro
 
 Gestão técnica completa para engenheiros, técnicos e arquitetos autônomos da construção civil brasileira.
