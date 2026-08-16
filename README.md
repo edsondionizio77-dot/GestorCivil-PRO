@@ -45,7 +45,7 @@ edsondionizio77@gmail.com
 
 ## Versão
 
-1.0.0
+1.0.1
 
 ---
 
