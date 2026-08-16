@@ -1,5 +1,6 @@
-
 # GestorCivil Pro
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21970582.svg)](https://doi.org/10.5281/zenodo.21970582)
 
 Gestão técnica completa para engenheiros, técnicos e arquitetos autônomos da construção civil brasileira.
 
