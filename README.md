@@ -8,7 +8,10 @@ Gestão técnica completa para engenheiros, técnicos e arquitetos autônomos da
 
 - **Aplicativo Web (PWA):** https://edsondionizio77-dot.github.io/GestorCivil-PRO/
 - **Versão Android:** Em breve na Google Play Store (Gerado via PWABuilder)
-[![Capa do GestorCivil PRO]([![Capa do GestorCivil PRO](Link-direto-da-sua-imagem.png)](https://edsondionizio77-dot.github.io/GestorCivil-PRO/))](https://edsondionizio77-dot.github.io/GestorCivil-PRO/)
+- 
+![GestorCivil Pro — Tela inicial](gestorcivilpro-home
+.png)
+
 
 Aplicativo Progressive Web App (PWA) para gestão técnica completa de obras. Orçamentos, contratos, vistorias técnicas, monitoramento de fissuras, relatório financeiro e diário de obra em um só lugar. Funciona 100% offline — todos os dados são armazenados localmente no dispositivo do usuário, sem necessidade de servidor ou conexão à internet.
 
