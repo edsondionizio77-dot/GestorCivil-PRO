@@ -6,7 +6,7 @@ Gestão técnica completa para engenheiros, técnicos e arquitetos autônomos da
 
 ## Links do Projeto
 
-- **Aplicativo Web (PWA):** [Em breve] https://edsondionizio77-dot.github.io/GestorCivil-PRO/
+- **Aplicativo Web (PWA):** https://edsondionizio77-dot.github.io/GestorCivil-PRO/
 - **Versão Android:** Em breve na Google Play Store (Gerado via PWABuilder)
 
 Aplicativo Progressive Web App (PWA) para gestão técnica completa de obras. Orçamentos, contratos, vistorias técnicas, monitoramento de fissuras, relatório financeiro e diário de obra em um só lugar. Funciona 100% offline — todos os dados são armazenados localmente no dispositivo do usuário, sem necessidade de servidor ou conexão à internet.
@@ -34,8 +34,7 @@ Projeto pessoal de Edson Alves Dionizio — pesquisa e desenvolvimento em tecnol
 - Emissão de TRT (Termo de Responsabilidade Técnica)
 
 ## Política de Privacidade
-
-https://edsondionizio77-dot.github.io/GestorCivil-PRO/gestorcivil_privacy.html
+https://edsondionizio77-dot.github.io/GestorCivil-PRO/
 
 ## Contato
 
