@@ -34,7 +34,7 @@ Projeto pessoal de Edson Alves Dionizio — pesquisa e desenvolvimento em tecnol
 
 ## Política de Privacidade
 
-https://edsondionizio77-dot.github.io/gestorcivil/privacy.html](https://edsondionizio77-dot.github.io/GestorCivil-PRO/gestorcivil_privacy.html)
+https://edsondionizio77-dot.github.io/GestorCivil-PRO/gestorcivil_privacy.html
 
 ## Contato
 
