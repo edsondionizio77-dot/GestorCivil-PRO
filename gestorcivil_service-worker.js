@@ -1,5 +1,5 @@
 /**
- * GestorCivil Pro — Service Worker
+ * service-worker.js
  *
  * Estratégia: cache-first com revalidação em background.
  * Como o app é 100% offline (single-file HTML com localStorage),
