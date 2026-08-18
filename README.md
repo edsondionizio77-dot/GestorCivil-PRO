@@ -37,7 +37,7 @@ Projeto pessoal de Edson Alves Dionizio — pesquisa e desenvolvimento em tecnol
 - Emissão de TRT (Termo de Responsabilidade Técnica)
 
 ## Política de Privacidade
-https://edsondionizio77-dot.github.io/GestorCivil-PRO/gestorcivil_privacy.html
+https://edsondionizio77-dot.github.io/GestorCivil-PRO/privacy.html
 
 ## Contato
 
