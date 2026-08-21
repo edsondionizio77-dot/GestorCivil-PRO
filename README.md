@@ -6,7 +6,6 @@ Gestão técnica completa para engenheiros, técnicos e arquitetos autônomos da
 
 ## Links do Projeto
 
-- **Aplicativo Web (PWA):** https://edsondionizio77-dot.github.io/GestorCivil-PRO/
 - **Versão Android:** Em breve na Google Play Store (Gerado via PWABuilder)
   
 ![GestorCivil Pro — Tela inicial](https://github.com/edsondionizio77-dot/GestorCivil-PRO/blob/main/gestorcivilpro-home.png?raw=true)
